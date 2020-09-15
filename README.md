@@ -4,4 +4,4 @@ The Mathematics and Computing Society of IIT BHU (MACS) is a non-profit student 
 The Society is aimed at promoting research and technical skills among the students by providing them opportunity to elucidate their ideas and thoughts beyond boundaries. We are a learned society consisting of professors, research scholars, undergraduate students and the alumni of the department. The Society is responsible for organizing programs, activities, social events,and seminars for the Postgraduate math community at IIT BHU.
 
 
-CLick the link for the site- [macs](http://macsiitbhu.com/math/_assoc/)
+
